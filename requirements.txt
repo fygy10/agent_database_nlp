@@ -164,7 +164,7 @@ pytz==2025.2
 PyYAML==6.0.2
 pyzmq==26.3.0
 # Editable Git install with no remote (react-agent==0.0.1)
--e /Users/timothyniko/Documents/lang/app
+# -e /Users/timothyniko/Documents/lang/app
 redis==5.2.1
 referencing==0.36.2
 regex==2024.11.6
@@ -228,3 +228,4 @@ xxhash==3.5.0
 yarl==1.18.3
 zopfli==0.2.3.post1
 zstandard==0.23.0
+python-dotenv
